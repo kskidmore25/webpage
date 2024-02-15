@@ -1,0 +1,17 @@
+header {
+  background-color: darkorchid;  
+} 
+
+body {
+    background-color:deeppink;
+}
+input, textarea{
+  background-color: darkgray;
+} 
+nav {
+  background-color:#E9967A; 
+ 
+}
+nav a{
+  color: black;
+}
